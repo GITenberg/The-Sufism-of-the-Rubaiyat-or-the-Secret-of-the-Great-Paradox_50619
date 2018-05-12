@@ -1,9 +1,13 @@
 _repo: The-Sufism-of-the-Rubaiyat-or-the-Secret-of-the-Great-Paradox_50619
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Hazeldine, Norton F. W.
     gutenberg_agent_id: '45998'
     url: http://www.gutenberg.org/2009/agents/45998
+covers:
+- cover_type: archival
+  image_path: 50619-h/images/cover.jpg
 creator:
   author:
     agent_name: Omar Khayyam
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1787
     wikipedia: http://en.wikipedia.org/wiki/Omar_Khayy%C3%A1m
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50619#The-Sufism-of-the-Rubaiyat-or-the-Secret-of-the-Great-Paradox
 gutenberg_issued: '2015-12-05'
 gutenberg_type: Text
 identifiers:
